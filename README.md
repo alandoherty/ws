@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/websockets/ws.svg?branch=master)](https://travis-ci.org/websockets/ws)
 
+## See the `ws` package for the real websocket library, needed unix domain sockets with paths and the pull request to fix has been sitting around for motnhs
+
 `ws` is a simple to use WebSocket implementation, up-to-date against RFC-6455,
 and [probably the fastest WebSocket library for node.js][archive].
 
